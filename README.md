@@ -1,2 +1,2 @@
 # Covid-19_Data_Science_project
-Minor data analysis about Covid-19 in Finland and XGBRegression modeling with the data. © Sami Anttalainen
+The project analyzes Covid-19 data in Finland. Regression modeling is done with XGBRegression model that tries to predict correctly survivability of the people in the data set. © Sami Anttalainen
